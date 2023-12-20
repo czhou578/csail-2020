@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 counter=0
 while ./random ; do
   ((counter+=1))
